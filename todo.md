@@ -1,0 +1,1 @@
+- [ ] migrate the samples in `gobyexample` to [Go modules](https://golang.org/doc/code.html#Workspaces)
