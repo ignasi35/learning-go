@@ -1,1 +1,2 @@
 - [ ] migrate the samples in `gobyexample` to [Go modules](https://golang.org/doc/code.html#Workspaces)
+- [ ]  create a sample app using [Buffalo](https://github.com/gobuffalo/buffalo#buffalo)
